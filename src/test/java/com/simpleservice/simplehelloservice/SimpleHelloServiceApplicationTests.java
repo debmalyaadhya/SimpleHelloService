@@ -1,4 +1,4 @@
-package com.simplemicroservice.SimpleHelloService;
+package com.simpleservice.simplehelloservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

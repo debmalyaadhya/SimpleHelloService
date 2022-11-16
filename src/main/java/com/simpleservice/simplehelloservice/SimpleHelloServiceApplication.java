@@ -1,4 +1,4 @@
-package com.simplemicroservice.SimpleHelloService;
+package com.simpleservice.simplehelloservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
